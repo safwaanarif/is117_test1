@@ -31,13 +31,13 @@ Psychologist Robert Cialdini identified key behavioral shortcuts that guide huma
 
 ## Decision Journey
 
-'''mermaid
+```mermaid
 graph TD
     A[Initial Need or Curiosity] --> B[Evaluate Credibility & Social Proof]
     B --> C{Weigh Perceived Value vs. Risk}
     C -->|High Friction / Fear of Loss| D[Abandon Action]
     C -->|Clear Value & Autonomy Respected| E[Ethical Commitment]
-'''
+```
 
 ## Questions to Ask Before Trying to Persuade
 - Is this communication truthful and transparent?
