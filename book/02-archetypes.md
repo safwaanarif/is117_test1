@@ -40,5 +40,16 @@ graph TD
     C -->|Alienating / Inauthentic| D[Bounce from Site]
     C -->|Resonant Archetype| E[Form Emotional Attachment]
     E --> F[Engage with Offering]
+```  
+
+## Ethical Considerations in Archetypal Design
+- Does the chosen archetype reflect the authentic bexhavior and ethics of the organization?
+- Is the emotional persona exploiting user vulnerabilities or anxieties (e.g., using The Outlaw to promote reckless risk)?
+- Does the brand maintain transparency despite heavy persona framing?
+
+## The Plain White T-Shirt
+The exact same plain white T-shirt transforms depending on the applied archetype:
+- Under **The Creator**, the T-shirt is celebrated as an unvarnished canvas for raw individual customization and design purity.
+- Under **The Ruler**, the T-shirt is framed as an exclusive staple of modern executive minimalism, commanding a luxury premium.
 
     
